@@ -16,13 +16,14 @@
 <body>
     <header class="jumbotron">
         <h1 class="display-3">Schedule You Day</h1>
-        <p class="lead">A simple calendar app for scheduling your work day</p>
-        <p id="currentDay" class="lead"></p>
+        <p class="lead">What does your ideal day look like to you?</p>
+        <p id="currentDay"></p>
+        <p id="currentTime"></p>
     </header>
     <div class="container">
         <!-- Timeblocks go here -->
-        <div class="row time-block" id="Noon">
-            <div class="col-md-1 hour">Noon</div>
+        <div class="row time-block" id="12pm">
+            <div class="col-md-1 hour">12PM</div>
             <textarea class="col-md-10 description"></textarea>
             <button class="btn saveBtn col-md-1"><i class="oi oi-file"></i></button>
         </div>
@@ -81,8 +82,8 @@
             <textarea class="col-md-10 description"></textarea>
             <button class="btn saveBtn col-md-1"><i class="oi oi-file"></i></button>
         </div>
-        <div class="row time-block" id="midnight">
-            <div class="col-md-1 hour">Midnight</div>
+        <div class="row time-block" id="12am">
+            <div class="col-md-1 hour">12AM</div>
             <textarea class="col-md-10 description"></textarea>
             <button class="btn saveBtn col-md-1"><i class="oi oi-file"></i></button>
         </div>
