@@ -1,11 +1,11 @@
 # Work Day Schedule
-## Week 3 Challenge
+## Week 5 Challenge
 
 ## Scope
 This application is designed with the intent for users to add and remove events on a hourly based schedule for better organization of their time.
 
 ## Mockup
-
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/82549162/131280857-33f9f0f4-77c0-4bbf-8078-d63f0ebf12a1.gif)
 
 ## Website link
 https://jhardisty333.github.io/psychic-robot/
