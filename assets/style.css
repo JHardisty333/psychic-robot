@@ -10,14 +10,13 @@ body {
     border: none;
     resize: none;
     color: #4a3854;
-    padding: 10px;
+    padding-top: 20px;
   }
   
   .jumbotron {
     text-align: center;
     background-color: #4a3854;
     color: #fff7e7;
-    border-radius: 0;
     border-bottom: 10px solid #fff7e7;
   }
   
@@ -26,7 +25,6 @@ body {
   }
   
   .time-block {
-    text-align: center;
     border-radius: 15px;
   }
   
@@ -36,6 +34,10 @@ body {
   }
   
   .hour {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
     background-color: #f09156;
     color: #fff7e7;
     border-radius: 15px;

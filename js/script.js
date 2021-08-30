@@ -56,7 +56,7 @@ $(document).ready(function () {
     trackTime();
 })
 
-// accurate refresh time
+// function for sit to refrech time for accuracy
 
 setInterval(function () {
     $(".currentTime").html(function () {
