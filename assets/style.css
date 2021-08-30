@@ -5,7 +5,7 @@ body {
     background-color: #4a3854;
   }
   
-  textarea{
+  textarea {
     background: transparent;
     border: none;
     resize: none;
@@ -21,11 +21,11 @@ body {
     border-bottom: 10px solid #fff7e7;
   }
   
-  .description{
+  .description {
     white-space: pre-wrap;
   }
   
-  .time-block{
+  .time-block {
     text-align: center;
     border-radius: 15px;
   }
@@ -38,7 +38,7 @@ body {
   .hour {
     background-color: #f09156;
     color: #fff7e7;
-    border-radius: 10px;
+    border-radius: 15px;
   }
   
   .past {
